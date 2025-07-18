@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "AAA",
+        "email": "first@f.com",
+        "salary": 5000,
+        "dob": "2025-01-01",
+        "status": "Active",
+        "avatar": "https://randomuser.me/api/portraits/men/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "BBB",
+        "email": "second@s.com",
+        "salary": 5500,
+        "dob": "2025-02-01",
+        "status": "Active",
+        "avatar": "https://randomuser.me/api/portraits/men/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "CCCC",
+        "email": "thirdd@t.com",
+        "salary": 5800,
+        "dob": "2025-21-01",
+        "status": "Active",
+        "avatar": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "ddd",
+        "email": "forth@f.com",
+        "salary": 5900,
+        "dob": "2025-19-01",
+        "status": "Active",
+        "avatar": "https://randomuser.me/api/portraits/men/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "eeee",
+        "email": "eeee@e.com",
+        "salary": 5090,
+        "dob": "2025-18-01",
+        "status": "Active",
+        "avatar": "https://randomuser.me/api/portraits/men/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "ffff",
+        "email": "ffff@f.com",
+        "salary": 5900,
+        "dob": "2025-07-01",
+        "status": "Active",
+        "avatar": "https://randomuser.me/api/portraits/men/6.jpg"
+    }
+]
